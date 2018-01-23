@@ -15,6 +15,16 @@
       1. DB query partioning.
       1. S3 file partitioning (Parquet)
       1. CSV partitioning (it can be done, but it won't compress / isn't columnar)
+    1. Executing in the driver.
+    1. Suboptimal for-each execution (optimize / minimize expensive external resources) 
+      1. map.forEachPartition vs map.forEach
+    1. What is a UDF
+    1. Performance hit for pyspark
+1. Uncommon good patterns:
+   1. Testing your code, factoring for testing.
 1. Telemetry and logging... Do it.
 1. What is the Spark optimizer (catalyst).
 1. What is 
+
+
+Notes: https://www.qubole.com/blog/introducing-quboles-spark-tuning-tool/
