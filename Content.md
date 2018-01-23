@@ -1,5 +1,5 @@
 1 What is spark
-1.1 What is a distributed compute framework
+  1 What is a distributed compute framework
 ### What is partitioning and why is it important.
 # When would you *need* spark vs. When you would *want* spark vs. when it's silly.
 # A quick background on our compute infra vis a vis spark
