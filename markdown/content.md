@@ -1,9 +1,9 @@
 1. What is spark
    1. What is a distributed compute framework
+1. quick notes on teh spark programming model
 1. What is partitioning and why is it important.
 1. When would you *need* spark vs. When you would *want* spark vs. when it's silly.
 1. A quick background on our compute infra vis a vis spark
-1. quick notes on teh spark programming model
 1. How to troubleshoot spark
 1. How to ask for help and when to do it.
     1. How to troubleshoot spark here at UB
